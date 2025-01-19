@@ -15,7 +15,7 @@ You can clone the project directly from this repo to your local system.
 ### 1. Git clone 
 
 ```bash
-git clone https://github.com/surjithctly/astroship.git .
+git clone https://github.com/xxxxxxxxxxxxxxx.
 ```
 
 The `.` will clone it to the current directory so make sure you are inside your project folder.
@@ -72,6 +72,14 @@ The program will then add the minutes together and compare the total to the pre-
 | 101 <= total <= 105 | Honorary Half Colours |
 | 106 <= total <= 110   | Honorary Scroll |
 | >110 | No award |
+
+### Example of output 
+
+<img width="949" alt="Screenshot 2025-01-19 at 19 05 52" src="https://github.com/user-attachments/assets/419ba347-498a-438d-8494-7b9db5cff231" />
+
+
+
+
 
 
 
