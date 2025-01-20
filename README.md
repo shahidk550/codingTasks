@@ -2,9 +2,12 @@
 Cybersecurity Bootcamp tasks are mini projects that have helped me to get an undertanding of Python. Each task below is a part of my learning and journey into python coding. 
 
 # Table of contents 
-[Award.py](#p1)
-[Email.py](#p2)
-[Password_hasher.py](#p3)
+
+| Project | Description |
+| --- | ------ |
+| [Award.py](#p1) | Calculates awards in triathalon |
+| [Email.py](#p2) | Email management system |
+| [Password_hasher.py](#p3) | Hashes passwords | 
 
 # Project 1 - Award.py  <a name="p1"></a>
 Award.py calculates if a participant is to be given an award for completing a triathlon.
@@ -205,7 +208,7 @@ Hash passwords inputted by the user.
 
 The program prompts the user to enter a password or word they want to hash. With the use of bcrypt library the pregram also adds a salt to make the password more secure. 
 
-The main purpose of this task was to learn how to use objects orientated programming concepts. 
+The main purpose of this task was to learn about setting up virtual enviroments in Python and hashing.  
 
 
 ## Installation 
