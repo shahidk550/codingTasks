@@ -176,6 +176,7 @@ To view the emails that have not yet been read selct number 2. In the exaple abo
 
 ### 3. Quit application 
 Selecting the number 3 from the menu will exit the application. 
+
 <img width="253" alt="Screenshot 2025-01-20 at 14 41 24" src="https://github.com/user-attachments/assets/e4b8b252-ebe9-4a16-bff7-86ef008ca9a6" />
 
 
