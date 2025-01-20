@@ -185,12 +185,12 @@ Selecting the number 3 from the menu will exit the application.
 <!-- prettier-ignore -->
 | Feature | Benefit | Priority|
 | --- | ------ | --- |
-| Multiple attempts and Average Calcualtion| Allow users to enter times for multiple attempts and calculate the average time to determine the award. | ✅ |
-| Leaderboard or Ranking system | Allow users to enter their names and store their total times. Display a leaderboard showing the top performers.  | ✅ |
-| Detailed Feedback   | Provide feedback on how close the user was to achieving the next award tier. | ✅ |
-| Custom Award Criteria | Allow users to customize the award criteria for different types of events or levels of difficulty.  | ✅ |
-| Time Conversion | Offer an option to input times in hours and minutes, converting them to total minutes automatically. | ❌ |
-| Graphical User Interface | Develop a simple GUI using libraries like Tkinter to make the program more interactive and visually appealing.  | ❌ |
+| Enhanced User Interface| Using a library like curses for a more interactive terminal interface. | ❌  |
+| Email Sorting | Allow sorting of emails by different criteria such as date, sender, or subject.  | ✅ |
+| Email Deletion   | Implement a search feature to find emails by subject line or sender. | ✅ |
+| Peristence | Save emails to a file or database so that they persist between program runs. | ✅ |
+| Multiple inboxes | Support multiple inboxes for different email addresses.| ❌ |
+|Search Function| Implement a search featu | ❌ |
 
 
 
