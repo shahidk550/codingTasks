@@ -294,9 +294,9 @@ Bcrypt can now be downloaded in the virtual environment if you are on Mac OS use
 pip install bcrypt
 ```
 
-On Lunix...
+On Lunix and windows...
 ```
-pip install bcrypt
+https://pypi.org/project/bcrypt/
 ```
 
 ### 5. Create a requirements/dependencies text file (optional)
