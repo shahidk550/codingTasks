@@ -1,11 +1,11 @@
 # codingTasks
-Cybersecurity Bootcamp tasks are mini projects that have helped me to get an undertanding of Python. Each task below is a part of my learning and journey into python coding. 
+Cybersecurity Bootcamp tasks are mini projects that have helped me to get an understanding of Python. Each task below is a part of my learning and journey into python coding. 
 
 # Table of contents 
 
 | Project | Description |
 | --- | ------ |
-| [Award.py](#p1) | Calculates awards in triathalon |
+| [Award.py](#p1) | Calculates awards in triathlon |
 | [Email.py](#p2) | Email management system |
 | [Password_hasher.py](#p3) | Hashes passwords | 
 
@@ -41,7 +41,7 @@ https://www.python.org/downloads/macos/
 https://www.python.org/downloads/windows
 ```
 
-#### For Lunix:
+#### For Linux:
 ```
 https://www.python.org/downloads/source/
 ```
@@ -63,7 +63,7 @@ python award.py
 ```
 
 ## Operating Award.py
-Once the program is running you will be promted to privide inputs in the form of minutes taken to complete each event. 
+Once the program is running you will be prompted to privide inputs in the form of minutes taken to complete each event. 
 
 ### Example of inputs 
 
@@ -90,7 +90,7 @@ The program will then add the minutes together and compare the total to the pre-
 <!-- prettier-ignore -->
 | Feature | Benefit | Priority|
 | --- | ------ | --- |
-| Multiple attempts and Average Calcualtion| Allow users to enter times for multiple attempts and calculate the average time to determine the award. | ✅ |
+| Multiple attempts and Average Calculation| Allow users to enter times for multiple attempts and calculate the average time to determine the award. | ✅ |
 | Leaderboard or Ranking system | Allow users to enter their names and store their total times. Display a leaderboard showing the top performers.  | ✅ |
 | Detailed Feedback   | Provide feedback on how close the user was to achieving the next award tier. | ✅ |
 | Custom Award Criteria | Allow users to customize the award criteria for different types of events or levels of difficulty.  | ✅ |
@@ -102,9 +102,9 @@ The program will then add the minutes together and compare the total to the pre-
 
 
 # Project 2 - Email.py  <a name="p2"></a>
-Email management service that alllows users to view and marks emails as read. 
+Email management service that allows users to view and mark emails as read. 
 
-The program poppulates an inbox with emails and lists emails with thier subject, read emails by selecting from an index and identify unread emails. 
+The program populates  an inbox with emails and lists emails with their subject, read emails by selecting from an index and identify unread emails. 
 
 The main purpose of this task was to learn how to use objects orientated programming concepts. 
 
@@ -133,7 +133,7 @@ https://www.python.org/downloads/macos/
 https://www.python.org/downloads/windows
 ```
 
-#### For Lunix:
+#### For Linux:
 ```
 https://www.python.org/downloads/source/
 ```
@@ -144,7 +144,7 @@ Open you terminal and go to the file where the award.py code has been saved.
 
 To run email.py enter the following: 
 
-#### For Mac OS  and Lunix
+#### For Mac OS  and Linux
 ```
 python3 email.py
 ```
@@ -155,7 +155,7 @@ python email.py
 ```
 
 ## Operating email.py
-Once the program is running you will be promted to select an action from a menu. 
+Once the program is running you will be prompted to select an action from a menu. 
 
 1. Read email
 2. View unread emails
@@ -177,7 +177,7 @@ In this example we have chosen the first email to read. By clicking number 1 the
 <img width="299" alt="Screenshot 2025-01-20 at 14 39 39" src="https://github.com/user-attachments/assets/c98fd9dd-507e-4b63-9df0-d958e111fa16" />
 
 ### 2. View unread emails
-To view the emails that have not yet been read selct number 2. In the exaple above we have already viewed email number one, therefore the program only shows emails 2 and 3 that are unread. 
+To view the emails that have not yet been read select number 2. In the example above we have already viewed email number one, therefore the program only shows emails 2 and 3 that are unread. 
 
 
 <img width="243" alt="Screenshot 2025-01-20 at 14 40 31" src="https://github.com/user-attachments/assets/88546ca8-b4cf-4d3a-9650-0be4cf26fe36" />
@@ -198,7 +198,7 @@ Selecting the number 3 from the menu will exit the application.
 | Email Deletion   | Implement a search feature to find emails by subject line or sender. | ✅ |
 | Peristence | Save emails to a file or database so that they persist between program runs. | ✅ |
 | Multiple inboxes | Support multiple inboxes for different email addresses.| ❌ |
-|Search Function| Implement a search featu | ❌ |
+|Search Function| Implement a search feature | ❌ |
 
 
 
@@ -206,9 +206,9 @@ Selecting the number 3 from the menu will exit the application.
 Hash passwords inputted by the user. 
 
 
-The program prompts the user to enter a password or word they want to hash. With the use of bcrypt library the pregram also adds a salt to make the password more secure. 
+The program prompts the user to enter a password or word they want to hash. With the use of bcrypt library the programs also adds a salt to make the password more secure. 
 
-The main purpose of this task was to learn about setting up virtual enviroments in Python and hashing.  
+The main purpose of this task was to learn about setting up virtual environments in Python and hashing.  
 
 
 ## Installation 
@@ -235,7 +235,7 @@ https://www.python.org/downloads/macos/
 https://www.python.org/downloads/windows
 ```
 
-#### For Lunix:
+#### For Linux:
 ```
 https://www.python.org/downloads/source/
 ```
@@ -245,7 +245,7 @@ bcrypt is a type of cryptographic algorithm used to securely store passwords. It
 
 The program uses the bcrypt library to function with Python. 
 
-To downwload bcrypt from the home page: 
+To download bcrypt from the home page: 
 ```
 https://pypi.org/project/bcrypt/
 ```
@@ -270,7 +270,7 @@ Once the environment has been created navigate the venv file and activate it by:
 ```
 source venv/bin/activate
 ```
-The virtual environemnt should start to run and the (venv) should be shown in the terminal like below:
+The virtual environment should start to run and the (venv) should be shown in the terminal like below:
 
 <img width="286" alt="Screenshot 2025-01-20 at 16 18 28" src="https://github.com/user-attachments/assets/fcccccf3-b6b9-4601-90c0-1871ba515571" />
 
@@ -294,7 +294,7 @@ Bcrypt can now be downloaded in the virtual environment if you are on Mac OS use
 pip install bcrypt
 ```
 
-On Lunix and windows...
+On Linux and windows...
 ```
 https://pypi.org/project/bcrypt/
 ```
@@ -305,7 +305,7 @@ As you are working in a virtual environment created specifically for this projec
 
 ## Run password_hasher.py: 
 
-### For Mac OS and Lunix
+### For Mac OS and Linux
 ```
 python3 password_hasher.py
 ```
@@ -316,7 +316,7 @@ python password_hasher.py
 ```
 
 ## Operating password_hasher.py
-Once the program is running you will be promted to type in a password. 
+Once the program is running you will be prompted to type in a password. 
 
 <img width="471" alt="Screenshot 2025-01-20 at 16 48 26" src="https://github.com/user-attachments/assets/d1cd48f9-65d3-4eb6-9f7f-a6f7270d6e65" />
 
