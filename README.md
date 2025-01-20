@@ -1,7 +1,12 @@
 # codingTasks
 Cybersecurity Bootcamp tasks are mini projects that have helped me to get an undertanding of Python. Each task below is a part of my learning and journey into python coding. 
 
-# Project 1 - Award.py 
+# Table of contents 
+[Award.py](#p1)
+[Email.py](#p2)
+[Password_hasher.py](#p3)
+
+# Project 1 - Award.py  <a name="p1"></a>
 Award.py calculates if a participant is to be given an award for completing a triathlon.
 
 The program takes the total amount of time taken for a contestant to complete each event of cycling, running and swimming and adds them together. 
@@ -93,7 +98,7 @@ The program will then add the minutes together and compare the total to the pre-
 
 
 
-# Project 2 - Email.py 
+# Project 2 - Email.py  <a name="p2"></a>
 Email management service that alllows users to view and marks emails as read. 
 
 The program poppulates an inbox with emails and lists emails with thier subject, read emails by selecting from an index and identify unread emails. 
@@ -194,7 +199,7 @@ Selecting the number 3 from the menu will exit the application.
 
 
 
-# Project 3 - Password_hasher.py 
+# Project 3 - Password_hasher.py <a name="p3"></a>
 Hash passwords inputted by the user. 
 
 
