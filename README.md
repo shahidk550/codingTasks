@@ -5,7 +5,7 @@ Cybersecurity Bootcamp tasks are mini projects that have helped me to get an und
 
 | Project | Description |
 | --- | ------ |
-| [Award.py](#p1) | Calculates awards in triathlon |
+| [Award.py](#p1) | Calculates awards for contestants in a triathlon |
 | [Email.py](#p2) | Email management system |
 | [Password_hasher.py](#p3) | Hashes passwords | 
 
