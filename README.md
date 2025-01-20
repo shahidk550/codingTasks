@@ -325,7 +325,7 @@ The program will then hash and salt the password and return the newly created ha
 
 <img width="589" alt="Screenshot 2025-01-20 at 16 49 48" src="https://github.com/user-attachments/assets/0ccf3b7b-18fa-45de-8ebc-4513132ffbee" />
 
-## Close the virtual enviroment 
+## Close the virtual environment 
 Once you have finished using the program please close the virtual environment by typing in...
 ```
 deactivate 
