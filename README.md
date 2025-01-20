@@ -104,7 +104,7 @@ The program will then add the minutes together and compare the total to the pre-
 # Project 2 - Email.py  <a name="p2"></a>
 Email management service that allows users to view and mark emails as read. 
 
-The program populates  an inbox with emails and lists emails with their subject, read emails by selecting from an index and identify unread emails. 
+The program populates an inbox with emails, lists emails with their subject with headings, emables users to read emails by selecting from an index and identifies unread emails. 
 
 The main purpose of this task was to learn how to use objects orientated programming concepts. 
 
