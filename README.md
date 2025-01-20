@@ -77,7 +77,17 @@ The program will then add the minutes together and compare the total to the pre-
 
 <img width="949" alt="Screenshot 2025-01-19 at 19 05 52" src="https://github.com/user-attachments/assets/419ba347-498a-438d-8494-7b9db5cff231" />
 
+## Future enhancements to Award.py
 
+<!-- prettier-ignore -->
+| Feature | Benefit | Priority|
+| --- | ------ | --- |
+| Multiple attempts and Average Calcualtion| Allow users to enter times for multiple attempts and calculate the average time to determine the award. | ✅ |
+| Leaderboard or Ranking system | Allow users to enter their names and store their total times. Display a leaderboard showing the top performers.  | ✅ |
+| Detailed Feedback   | Provide feedback on how close the user was to achieving the next award tier. | ✅ |
+| Custom Award Criteria | Allow users to customize the award criteria for different types of events or levels of difficulty.  | ✅ |
+| Time Conversion | Offer an option to input times in hours and minutes, converting them to total minutes automatically. | ❌ |
+| Graphical User Interface | Develop a simple GUI using libraries like Tkinter to make the program more interactive and visually appealing.  | ❌ |
 
 
 
