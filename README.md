@@ -1,4 +1,4 @@
-# codingTasks
+# CodingTasks
 Cybersecurity Bootcamp tasks are mini projects that have helped me to get an understanding of Python. Each task below is a part of my learning and journey into python coding. 
 
 # Table of contents 
